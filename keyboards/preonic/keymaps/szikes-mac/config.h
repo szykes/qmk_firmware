@@ -1,6 +1,8 @@
 #ifndef CONFIG_USER_H
 #define CONFIG_USER_H
 
+#define DEBOUNCE 10
+
 #define TAPPING_TERM 200
 
 #ifdef AUDIO_ENABLE
